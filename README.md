@@ -5,7 +5,6 @@
 - 📫 How to reach me:
 -     email:dallageorgecoding@gmail.com
 -     instagram:dallageorge
--     
 
 <!---
 dallageorge/dallageorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
